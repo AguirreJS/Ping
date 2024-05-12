@@ -2,7 +2,7 @@
 *.tmp
 
 # Ignorar directorios de dependencias
-node_modules/
+/node_modules
 
 # Ignorar archivos de configuración locales
 .env
