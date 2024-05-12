@@ -1,0 +1,32 @@
+[
+  {
+    "nombre": "dsad",
+    "ip": "192.168.0.1",
+    "prioridad": "alta",
+    "estado": 1
+  },
+  {
+    "nombre": "aaaa",
+    "ip": "8.8.8.8",
+    "prioridad": "alta",
+    "estado": 1
+  },
+  {
+    "nombre": "cyn",
+    "ip": "192.168.0.16",
+    "prioridad": "alta",
+    "estado": 1
+  },
+  {
+    "nombre": "Celular",
+    "ip": "192.168.0.230",
+    "prioridad": "media",
+    "estado": 1
+  },
+  {
+    "nombre": "Celular agus",
+    "ip": "192.168.0.3",
+    "prioridad": "baja",
+    "estado": 1
+  }
+]
